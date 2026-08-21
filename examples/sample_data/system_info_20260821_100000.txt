@@ -1,0 +1,12 @@
+Linux gpu-node-01 5.15.0-78-generic #85-Ubuntu SMP x86_64 GNU/Linux
+PRETTY_NAME="Ubuntu 22.04.3 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.3 LTS (Jammy Jellyfish)"
+
+======== DMI / BIOS 信息 ======
+System Information
+    Manufacturer: Supermicro
+    Product Name: AS-4124GS-TNR
+    Serial Number: S12345678
+    BIOS Version: 2.4

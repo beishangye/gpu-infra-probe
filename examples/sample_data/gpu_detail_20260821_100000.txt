@@ -1,0 +1,92 @@
+==============NVSMI LOG==============
+
+Timestamp                                 : Thu Aug 21 10:00:00 2026
+Driver Version                            : 535.129.03
+CUDA Version                              : 12.2
+
+Attached GPUs                             : 4
+GPU 00000000:07:00.0
+    Product Name                          : NVIDIA A10
+    Product Brand                         : NVIDIA
+    Product Architecture                  : Ampere
+    UUID                                  : GPU-11111111-aaaa-bbbb-cccc-222222222222
+    Minor Number                          : 0
+    PCI
+        GPU Part Number                   : 2520-875-A1
+        PCI Device ID                     : 26B210DE
+        PCI Bus ID                        : 00000000:07:00.0
+        PCIe Generation                   : 4
+        Link Width                        : 16x
+        Device Current PCIe Link Gen      : 4
+        Device Current PCIe Link Width    : 16x
+        Tx Throughput                     : 5000 KB/s
+        Rx Throughput                     : 3000 KB/s
+    FB Memory Usage
+        Total                             : 24576 MiB
+        Used                              : 512 MiB
+        Free                              : 24064 MiB
+    BAR1 Memory Usage
+        Total                             : 32768 MiB
+        Used                               : 8 MiB
+        Free                               : 32760 MiB
+    Performance State                      : P0
+    Clocks
+        SM                                : 1455 MHz
+        Memory                            : 6000 MHz
+    Temperature
+        GPU Current Temp                 : 46 C
+        GPU Target Performance            : N/A
+    Power Readings
+        Power Draw                        : 75.20 W
+        Power Limit                       : 150.00 W
+
+GPU 00000000:08:00.0
+    Product Name                          : NVIDIA A10
+    UUID                                  : GPU-33333333-cccc-dddd-eeee-444444444444
+    PCI
+        PCIe Generation                   : 4
+        Link Width                        : 16x
+    FB Memory Usage
+        Total                             : 24576 MiB
+        Used                              : 1024 MiB
+        Free                              : 23552 MiB
+    Performance State                      : P2
+    Temperature
+        GPU Current Temp                 : 78 C
+    Power Readings
+        Power Draw                        : 140.00 W
+        Power Limit                       : 150.00 W
+
+GPU 00000000:09:00.0
+    Product Name                          : NVIDIA A10
+    UUID                                  : GPU-55555555-eeee-ffff-0000-666666666666
+    PCI
+        PCIe Generation                   : 4
+        Link Width                        : 16x
+    FB Memory Usage
+        Total                             : 24576 MiB
+        Used                              : 8192 MiB
+        Free                             : 16384 MiB
+    Performance State                      : P5
+    Temperature
+        GPU Current Temp                 : 85 C
+    Power Readings
+        Power Draw                        : 148.00 W
+        Power Limit                       : 150.00 W
+
+GPU 00000000:0A:00.0
+    Product Name                          : NVIDIA A10
+    UUID                                  : GPU-77777777-1111-2222-3333-888888888888
+    PCI
+        PCIe Generation                   : 4
+        Link Width                        : 16x
+    FB Memory Usage
+        Total                             : 24576 MiB
+        Used                              : 256 MiB
+        Free                             : 24320 MiB
+    Performance State                      : P0
+    Temperature
+        GPU Current Temp                 : 40 C
+    Power Readings
+        Power Draw                        : 60.00 W
+        Power Limit                       : 150.00 W

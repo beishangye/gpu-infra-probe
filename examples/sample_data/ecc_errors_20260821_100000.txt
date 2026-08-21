@@ -1,0 +1,23 @@
+==============NVSMI ECC LOG==============
+
+GPU 00000000:07:00.0
+    ECC Mode
+        Current                         : Enabled
+        Pending                         : Enabled
+    Volatile
+        Single Bit
+            Device Memory               : 0
+        Double Bit
+            Device Memory               : 0
+    Aggregate
+        Single Bit
+            Device Memory               : 0
+        Double Bit
+            Device Memory               : 0
+
+GPU 00000000:09:00.0
+    Aggregate
+        Single Bit
+            Device Memory               : 3
+        Double Bit
+            Device Memory               : 1

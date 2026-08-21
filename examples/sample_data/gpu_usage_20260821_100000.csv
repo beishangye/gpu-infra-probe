@@ -1,0 +1,5 @@
+index, memory.used, memory.free, temperature.gpu, power.draw
+0, 512 MiB, 24064 MiB, 46, 75.20 W
+1, 1024 MiB, 23552 MiB, 78, 140.00 W
+2, 8192 MiB, 16384 MiB, 85, 148.00 W
+3, 256 MiB, 24320 MiB, 40, 60.00 W
