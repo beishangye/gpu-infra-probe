@@ -1,6 +1,7 @@
 # 运行时产物
+# 只排除带时间戳的报告 (report_YYYYMMDD_HHMMSS.html)，保留 report_template.html
 data/
-report_*.html
+report_[0-9]*.html
 
 # Python
 __pycache__/
